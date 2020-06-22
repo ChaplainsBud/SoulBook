@@ -1,0 +1,33 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+nav > ul{
+    background-color: rgb(35, 38, 38);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+nav > ul > li > i {
+    font-size: 2rem;
+}
+
+li {
+    list-style: none;
+    margin: 5px;
+}
+
+input {
+    background-color: rgb(58, 59, 60);
+    border-radius: 25px;
+}
+
+body { 
+
+    background-color: rgb(25, 26, 27)
+}
